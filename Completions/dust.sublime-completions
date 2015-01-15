@@ -22,6 +22,10 @@
             "contents": "{>${1:partial}${2: params }/}${0}"
         },
         {
+            "trigger": "dip|dust:inline partial",
+            "contents": "{<${1:inline}}\n\t${2}\n{/${1}}"
+        },
+        {
             "trigger": "db|dust:block",
             "contents": "{+${1:block}/}${0}"
         },

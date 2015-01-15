@@ -62,7 +62,7 @@ Type one of the these triggers – followed by <kbd>tab</kbd> or <kbd>ctrl+tab</
             <td>
                 <b>d</b>ust <b>b</b>lock
             </td>
-            <td><code>{>block}...{/block}</code></td>
+            <td><code>{+block}...{/block}</code></td>
         </tr>
         <tr>
             <td><code>deq</code></td>
